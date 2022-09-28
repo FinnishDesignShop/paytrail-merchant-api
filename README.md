@@ -1,3 +1,12 @@
+# What is this?
+
+Mirror of https://github.com/paytrail/merchant-api.git (now deleted)
+
+Mirrored this old deprecated repository for now, because it's still in use.
+Should be replaced ASAP, because the old API likely doesn't work anymore.
+
+- Jukka
+
 # :exclamation: Deprecated
 New api documentation is located in [https://services.paytrail.com](https://services.paytrail.com)
 
